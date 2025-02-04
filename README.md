@@ -1,1 +1,1 @@
-![Logo du Projet](images\logo.png)
+![Logo du Projet](logo.png)
