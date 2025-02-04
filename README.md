@@ -1,1 +1,1 @@
-![authentification jwt django](images\Capture d’écran 2025-02-04 122037.png)
+![authentification jwt django](images/Capture d’écran 2025-02-04 122037.png)
