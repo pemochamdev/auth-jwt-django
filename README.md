@@ -1,1 +1,1 @@
-![Logo du Projet](images\Capture d’écran 2025-02-04 122037.png)
+![Logo du Projet](images\logo.png)
